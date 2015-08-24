@@ -347,11 +347,11 @@ class ActiveField extends \yii\widgets\ActiveField
                 'class' => 'help-block',
             ],
             'errorOptions' => [
-                'tag' => 'p',
+                'tag' => 'span',
                 'class' => 'help-block help-block-error',
             ],
             'inputOptions' => [
-                'class' => 'form-control  form-md-line-input',
+                'class' => 'form-control',
             ],
         ];
 
